@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hanif Kumara</h1>
 <h3 align="center">A passionate fullstack web developer in Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hanifkumara&label=Profile%20views&color=0e75b6&style=flat" alt="hanifkumara" /> </p>
-
-- 🌱 I’m currently learning Go Language **Echo Framework**
+- 🌱 I’m currently learning Go Language with **Echo Framework**
 
 - 💬 Ask me about **React, Vue, Next, Express, Nest, Golang**
 
