@@ -85,10 +85,6 @@ Here are the types of projects I focus on:
   <img src="https://streak-stats.demolab.com?user=hanifkumara&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hanifkumara&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
 ---
 
 ## 🤝 Let's Connect
